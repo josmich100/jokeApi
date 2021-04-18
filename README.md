@@ -3,6 +3,7 @@
 This project was initiated with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+all scripts are available.
 
 In the project directory, you can run:
 
