@@ -4,6 +4,8 @@ This project was initiated with [Create React App](https://github.com/facebook/c
 
 ## Available Scripts
 all scripts are available.
+working on the hosting of the application,
+
 
 In the project directory, you can run:
 
